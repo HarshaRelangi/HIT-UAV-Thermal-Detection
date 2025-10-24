@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# YOLO training outputs
+runs/
+weights/
+*.pt
+*.onnx
+
+# Dataset files
+dataset/
+*.zip
+*.rar
+*.tar
+*.7z
+
+# Colab artifacts
+*.png
+*.jpg
